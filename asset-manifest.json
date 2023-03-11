@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VibeTube/static/css/main.7064deb2.css",
-    "main.js": "/VibeTube/static/js/main.48192632.js",
+    "main.js": "/VibeTube/static/js/main.32f4063e.js",
     "index.html": "/VibeTube/index.html",
     "main.7064deb2.css.map": "/VibeTube/static/css/main.7064deb2.css.map",
-    "main.48192632.js.map": "/VibeTube/static/js/main.48192632.js.map"
+    "main.32f4063e.js.map": "/VibeTube/static/js/main.32f4063e.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.48192632.js"
+    "static/js/main.32f4063e.js"
   ]
 }
